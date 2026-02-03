@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Nuño.
 - MS Data Science and BS Financial Engineering from ITESO.
 - Technical Lead @ Apex Systems.
-- Adjunct professor time series @ ITESO
+- Adjunct professor on Time Series @ ITESO
 
 <!---
 daniel-nuno/daniel-nuno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
